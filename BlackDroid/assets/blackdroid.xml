@@ -1,0 +1,26 @@
+<root>
+	<appCategory title="娱乐">
+		<appItem title="喜马拉雅" url="http://www.ximalaya.com/down?client=android" source="官网"  brief="流畅，可以下载"   />
+		<appItem title="爱奇艺HD" url="http://bbdev.cn/blackdroid/d31c8d1fe786a33826b2cdff78105ee8.apk" brief="passport流畅允许，上周更新后可以登陆了。" source="BBDev.CN" ref="石老人说" reflink="http://weibo.com/87546016" />
+		<appItem title="枫叶播放器" url="http://bbdev.cn/blackdroid/com.sqr5.android.audioplayer-2.7.0-155.apk" source="BBDev.CN" brief="首先现在用黑莓10系统做主力机的人应该不多了，本人从9900到q10到9982到passport到classic到现在用的9983，一路用来，一直作为副机使用。因为目前在准备司法考试，用主力机容易被微信等消息弄的分心，而听课件需要加速，故使用该软件(其实感觉这么多机器还是9900最好用，但在9900上找不到加速播放的播放器，只好用9983)。它作为一款播放器软件，在黑莓10系统中表现流畅且自带变速播放功能强大，值得推荐。"	ref="爱手机的公安刑警" />
+		<appItem title="HDP直播" source="官网"   url="http://www.hdplive.net/apks/Dplayer.apk" brief="HDP官网电视直播软件，挺好用"   />
+	</appCategory>
+	<appCategory title="阅读">
+		<appItem title="卡片新闻" url="http://bbdev.cn/blackdroid/cardnews_gp_1.0.9281129-for-80557-o_1b0829th0a6bf9m1q9m5c0qahq-uid-429841.apk" source="BBDev.CN"  brief="卡片新闻，z10和passport都流畅，内容比较丰富(就我而言)，pp键盘触摸可用。可以看轻松一刻。" ref="石老人说" reflink="http://weibo.com/87546016"		/>
+		<appItem title="有妖气漫画" url="http://bbdev.cn/blackdroid/22c81213406316c655e46e3a603ce770.apk" brief="运行流畅，滑动无卡顿" source="BBDev.CN"   />
+	</appCategory>
+	<appCategory title="社交">
+		<appItem title="尚饭" url="http://bbdev.cn/blackdroid/xyz.shaohui.sicilly-1.1.1-15.apk" source="BBDev.CN"  brief="饭否的第三方客户端，目前用着最舒服的，简洁、清晰。相比于微博的热闹，饭否就是一家安静的老店。" ref="石老人说" reflink="http://weibo.com/87546016" />
+		<appItem title="Welike微博客户端" url="http://bbdev.cn/blackdroid/Welike_275.apk" source="BBDev.CN"  brief="比wecio轻一些的微博客户端，但是发微博选图的时候避免了wecio找不到图片的烦恼。" ref="石老人说" reflink="http://weibo.com/87546016" />
+		<appItem title="QQ轻聊版" url="http://bbdev.cn/blackdroid/com.tencent.qqlite_3.5.0_174.apk" brief="运行流畅" source="BBDev.CN" ref="黑莓铁粉 QQ:1072432800" />
+	</appCategory>
+	<appCategory title="效率工具">
+		<appItem title="便签" url="http://bbdev.cn/blackdroid/app-release-for-120237-o_1bcfk42utf1a17q21fqvc17prq-uid-518407.apk" source="BBDev.CN"  brief="简单！就是简单，可以和印象笔记打通，可以生成图片分享。" ref="石老人说" reflink="http://weibo.com/87546016" />
+		<appItem title="锤子便签" url="http://bbdev.cn/blackdroid/com.smartisan.notes_33.apk" brief="运行流畅classic上面流畅而且触摸板，返回键全部可用" ref="无风的黑莓" source="BBDev.CN"  />
+		<appItem title="谷歌翻译" source="BBDev.CN"  url="http://bbdev.cn/blackdroid/fanyi_58001162.apk" brief="需要配合爬墙，但是在passport运行流畅，爬过去后用拍照翻译那个，简直就是黑科技。" ref="石老人说" reflink="http://weibo.com/87546016" />
+		<appItem title="微痕迹" url="http://bbdev.cn/blackdroid/com.pleasure.trace_wechat_1.4.6_46.apk" brief="在PP上非常流畅，可以方便的归类处理QQ，微信接收的视频，图片"  source="BBDev.CN"  />
+		<appItem title="外勤365" url="http://bbdev.cn/blackdroid/waiqin365.apk" brief="企业使用，运行流畅" ref="犀牛之舞" source="BBDev.CN" reflink="http://weibo.com/u/1465195557" />
+		<appItem title="百度输入法4.1" url="http://bbdev.cn/blackdroid/baiduIME_4.1.1.15_1274667.apk" brief="关于输入法我以前推荐过讯飞输入法，也有很多人推荐百度输入法，但是在bb10上绕不开的就是同时开俩安卓，会憋死安卓模拟器，一直到我发现用最初的输入法，适用安卓2.2的，可以避免这个憋死问题了。所以推荐的是百度输入法4.1，z10测试两天没憋死。" ref="石老人说" source="BBDev.CN" reflink="http://weibo.com/87546016"		/>
+		<appItem title="交管12123" url="http://bbdev.cn/blackdroid/com.tmri.app.main_10400.apk" brief="对于有车的黑莓粉来说，这款软件可以帮助他们查询违章，办理一些业务，毕竟是官方出品。软件运行流畅，占用内存小，比车轮查违章要好"  source="BBDev.CN" reflink="邮箱420703735@qq.com" />
+	</appCategory>
+</root>
